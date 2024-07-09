@@ -2,7 +2,7 @@ const socialLinks = {
   linkedin: "https://www.linkedin.com/in/vighneshbrahme/",
   github: "https://github.com/ThePhoenix08",
   mailme: "mailto:vighneshbrahme.workonly@gmail.com",
-  portfolio: "",
+  portfolio: "https://portfolio-v2-gold-psi.vercel.app/",
   resume:
     "https://drive.google.com/file/d/1BD1TEDYe13PrFBar2FWeGF0HCZvLVCBq/view?usp=drive_link",
 };
@@ -93,6 +93,7 @@ const projects = [
 ];
 
 export { socialLinks, skills, projects };
+
 
 
 

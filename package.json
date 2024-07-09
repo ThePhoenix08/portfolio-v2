@@ -1,6 +1,6 @@
 {
   "name": "portfolio-v2",
-  "homepage": "https://thephoenix08.github.io/portfolio-v2/",
+  "homepage": "https://portfolio-v2-gold-psi.vercel.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -39,3 +39,4 @@
     "vite": "^5.3.1"
   }
 }
+

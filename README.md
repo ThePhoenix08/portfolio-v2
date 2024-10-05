@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/ThePhoenix08/portfolio-v2.git
    cd portfolio
    ```
 
@@ -69,4 +69,3 @@ To run this project locally, follow these steps:
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [vighneshbrahme.workonly@gmail.com](mailto:vighneshbrahme.workonly@gmail.com).
-

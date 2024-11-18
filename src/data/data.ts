@@ -4,7 +4,7 @@ const socialLinks = {
   mailme: "mailto:vighneshbrahme.workonly@gmail.com",
   portfolio: "https://portfolio-v2-gold-psi.vercel.app/",
   resume:
-    "https://drive.google.com/file/d/1SnXzCSDepc7V5Z2DlQ00c_jk6TOmqiqQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1YeHxY5iQL-v3cdMyQ8RinMFvlvATEUfW/view?usp=drive_link",
 };
 
 type SkillsObj = {

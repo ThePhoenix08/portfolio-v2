@@ -1,5 +1,6 @@
 import React from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 
 import Hero from "./pages/Hero.tsx";
 import About from "./pages/About.tsx";
@@ -25,40 +26,9 @@ const App: React.FC = () => {
         <Route path="*" element={<PageNotFound />} />
       </Routes>
       {isValidRoute && <Navbar />}
+      <Analytics />
     </div>
   );
 };
 
 export default App;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
